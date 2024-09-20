@@ -1,6 +1,6 @@
 # AtliQ-Mart-Supply-Chain-Report
-  **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBkMmNhOGYtNWQwNS00Y2YyLWJiZDctYmVmMjUzZmZlZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)**
-  [Linkedin Post]()
+  * **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBkMmNhOGYtNWQwNS00Y2YyLWJiZDctYmVmMjUzZmZlZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)**
+  * [Linkedin Post]()
 ## Problem Statement-
 AtliQ Mart is facing an issue where key customers are not renewing their annual contracts, potentially due to service-related concerns. The company's management wants to resolve this problem before expanding the business to other cities. Currently, AtliQ Mart operates in three cities in Gujarat: Surat, Ahmedabad, and Vadodara. The management has tasked the analytics team to track and analyze the "On Time," "In Full," and "On Time In Full" (OTIF) metrics daily, comparing them against target values for all customers. This analysis will help the company identify and address service issues promptly.
 
@@ -19,8 +19,8 @@ AtliQ Mart is facing an issue where key customers are not renewing their annual 
 
 ### Top Customers
 - **Top Customers**: Acclaimed Stores, Lotus Mart, Vijay Stores, Rel Fresh, Coolblue, and Propel Mart are the top customers by order volume.
-  - For Acclaimed Stores, Coolblue & Lotus Mart, almost 70% of the time, order lines are delayed.
-  - **Recommendation**: These customers should be prioritized for maintaining strong relationships and ensuring high service levels.
+- For Acclaimed Stores, Coolblue & Lotus Mart, almost 70% of the time, order lines are delayed.
+- **Recommendation**: These customers should be prioritized for maintaining strong relationships and ensuring high service levels.
 
 ### Performance by City
 - **Surat**: 
@@ -38,7 +38,7 @@ AtliQ Mart is facing an issue where key customers are not renewing their annual 
 ### Product Category Insights
 - **Dairy** accounts for the largest number of orders—approximately three times more than the Food & Beverages category.
 - **Commonly Ordered Packages**: 250g, 100g, and 500g packages are the most popular across all cities.
-  - **Recommendation**: Optimize supply chain efficiency for the Dairy category to handle its high demand.
+- **Recommendation**: Optimize supply chain efficiency for the Dairy category to handle its high demand.
 
 ### Order Fulfillment Insights
 - **Average OT%**, **IF%**, and **OTIF%** are significantly lower than the targeted value.
@@ -46,7 +46,13 @@ AtliQ Mart is facing an issue where key customers are not renewing their annual 
   - While analyzing key metrics on a daily basis, not a single day’s actuals were able to reach the target.
   
 - **Average Delivery Delay**: The current delay stands at 0.42 days, with 40% of orders delayed.
-  - **Recommendation**: Focus on strategies to improve both OTIF and reduce delays by optimizing logistics and inventory management.
+- **Recommendation**: Focus on strategies to improve both OTIF and reduce delays by optimizing logistics and inventory management.
+
+## Next Steps
+  - Implement targeted interventions to reduce delivery delays in key cities and Customers.
+  - Engage with top customers to understand their needs and address delivery issues.
+  - Streamline the supply chain for the Dairy category to handle increased order volume.
+  - Demand for product packages of 100, 250 & 500 gms are high, ensure proper stocking to avoid delays and ensuring on time delivery.
 
 ## Tools Used
   * Power BI
