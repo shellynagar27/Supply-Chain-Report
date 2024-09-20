@@ -15,6 +15,11 @@ AtliQ Mart is facing an issue where key customers are not renewing their annual 
 ## Data Model
 ![Screenshot 2024-09-20 132637](https://github.com/user-attachments/assets/0ce24594-88e6-4a34-b93e-393ab52c786f)
 
+## Steps Taken
+  * Performed ETL (Extract- Transform- Load) & Data Modelling on the dataset.
+  * Created necessary key measures like -OT% (On Time %), IF% (In Full %), OTIF% (On Time In Full %), LIFR% (Line Fill Rate %), VOFR% (Volume Fill Rate %), Total Orders, Average Delay in Delivery in Days (ADD), Ordered Quantity & Delivered Quantity and more.
+  * Created various dashboards to gain insights by customers, products, orders, order lines, city, food category, date.
+
 ## Key Insights - Customer Performance
 
 ### Top Customers
