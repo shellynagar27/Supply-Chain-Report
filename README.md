@@ -1,7 +1,7 @@
 # AtliQ-Mart-Supply-Chain-Report
   * **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBkMmNhOGYtNWQwNS00Y2YyLWJiZDctYmVmMjUzZmZlZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)**
-  * [Linkedin Post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7242908079690788865)
-  * [trial](https://www.linkedin.com/feed/update/urn:li:ugcPost:7242908079690788865/)
+  * [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7242908079690788865/)
+
 ## Problem Statement-
 AtliQ Mart is facing an issue where key customers are not renewing their annual contracts, potentially due to service-related concerns. The company's management wants to resolve this problem before expanding the business to other cities. Currently, AtliQ Mart operates in three cities in Gujarat: Surat, Ahmedabad, and Vadodara. The management has tasked the analytics team to track and analyze the "On Time," "In Full," and "On Time In Full" (OTIF) metrics daily, comparing them against target values for all customers. This analysis will help the company identify and address service issues promptly.
 
