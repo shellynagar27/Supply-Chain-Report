@@ -3,7 +3,7 @@
   * [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7242908079690788865/)
 
 ## Problem Statement-
-AtliQ Mart is facing an issue where key customers are not renewing their annual contracts, potentially due to service-related concerns. The company's management wants to resolve this problem before expanding the business to other cities. Currently, AtliQ Mart operates in three cities in Gujarat: Surat, Ahmedabad, and Vadodara. The management has tasked the analytics team to track and analyze the "On Time," "In Full," and "On Time In Full" (OTIF) metrics daily, comparing them against target values for all customers. This analysis will help the company identify and address service issues promptly.
+AtliQ Mart (Imaginary Company) is facing an issue where key customers are not renewing their annual contracts, potentially due to service-related concerns. The company's management wants to resolve this problem before expanding the business to other cities. Currently, AtliQ Mart operates in three cities in Gujarat: Surat, Ahmedabad, and Vadodara. The management has tasked the analytics team to track and analyze the "On Time," "In Full," and "On Time In Full" (OTIF) metrics daily, comparing them against target values for all customers. This analysis will help the company identify and address service issues promptly.
 
 ## Task-
   * Create the necessary metrics based on the list provided by stakeholders.
