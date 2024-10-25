@@ -1,4 +1,6 @@
 # Supply-Chain-Report
+  * **Domain** - FMCG
+  * **Function** - Strategy
   * **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBkMmNhOGYtNWQwNS00Y2YyLWJiZDctYmVmMjUzZmZlZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)**
   * [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7242908079690788865/)
 
