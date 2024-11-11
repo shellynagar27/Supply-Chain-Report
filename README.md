@@ -1,8 +1,14 @@
 # Supply-Chain-Report
   * **Domain** - FMCG
-  * **Function** - Strategy
-  * **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBkMmNhOGYtNWQwNS00Y2YyLWJiZDctYmVmMjUzZmZlZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)**
-  * [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7242908079690788865/)
+  * **Function** - Strategy </br>
+
+**Live Dashboards:**
+ * [Older Version](https://app.powerbi.com/view?r=eyJrIjoiOTBkMmNhOGYtNWQwNS00Y2YyLWJiZDctYmVmMjUzZmZlZjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+ * [Newer Version](https://app.powerbi.com/view?r=eyJrIjoiNjc1ZWU0YTctMzgwMC00NWQxLWJjZTQtMDE1NzE4NGZmZWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=79fb601660bc98ffa96e) </br>
+
+**Linkedin Posts:**
+ * [Post 1](https://www.linkedin.com/feed/update/urn:li:ugcPost:7242908079690788865/)
+ * [Post 2](https://www.linkedin.com/posts/shellynagar_pdf-version-activity-7261747401068060673-DGQu?utm_source=share&utm_medium=member_desktop)
 
 ## Problem Statement-
 AtliQ Mart (Imaginary Company) is facing an issue where key customers are not renewing their annual contracts, potentially due to service-related concerns. The company's management wants to resolve this problem before expanding the business to other cities. Currently, AtliQ Mart operates in three cities in Gujarat: Surat, Ahmedabad, and Vadodara. The management has tasked the analytics team to track and analyze the "On Time," "In Full," and "On Time In Full" (OTIF) metrics daily, comparing them against target values for all customers. This analysis will help the company identify and address service issues promptly.
